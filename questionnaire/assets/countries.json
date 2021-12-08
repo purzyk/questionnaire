@@ -1,0 +1,1842 @@
+[
+    {
+      "id": 1,
+      "country": "Afghanistan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 2,
+      "country": "Albania",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 3,
+      "country": "Algeria",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 4,
+      "country": "Angola",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 5,
+      "country": "Antigua & Barbuda",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 6,
+      "country": "Argentina",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 7,
+      "country": "Armenia",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 8,
+      "country": "Austria",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 9,
+      "country": "Azerbaijan",
+      "brighton": 0,
+      "london": 0,
+      "oxford": 0,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 10,
+      "country": "Bahamas",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 11,
+      "country": "Bahrain",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 12,
+      "country": "Bangladesh",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 13,
+      "country": "Barbados",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 14,
+      "country": "Belarus",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 15,
+      "country": "Belgium",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 16,
+      "country": "Belize",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 17,
+      "country": "Benin",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 18,
+      "country": "Bermuda",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 19,
+      "country": "Bhutan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 20,
+      "country": "Bolivia",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 21,
+      "country": "Bosnia & Herzegovina",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 22,
+      "country": "Botswana",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 23,
+      "country": "Brazil",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": 30,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 24,
+      "country": "British Virgin Islands",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 25,
+      "country": "Brunei",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 26,
+      "country": "Bulgaria",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 27,
+      "country": "Burundi",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 28,
+      "country": "Cambodia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 29,
+      "country": "Cameroon",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 30,
+      "country": "Canada",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 31,
+      "country": "Cape Verde",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 32,
+      "country": "Cayman Islands",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 33,
+      "country": "Central African Republic",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 34,
+      "country": "Chad",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 35,
+      "country": "Chile",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 36,
+      "country": "China",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 37,
+      "country": "Colombia",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 38,
+      "country": "Congo (Zaire)",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 39,
+      "country": "Costa Rica",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 40,
+      "country": "Croatia",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 41,
+      "country": "Cuba",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 42,
+      "country": "Cyprus",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 43,
+      "country": "Czech Republic",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 44,
+      "country": "Denmark",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 45,
+      "country": "Dominican Republic",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 46,
+      "country": "East Timor",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 47,
+      "country": "Ecuador",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 48,
+      "country": "Egypt",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 49,
+      "country": "El Salvador",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 50,
+      "country": "Equatorial Guinea",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 51,
+      "country": "Eritrea",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 52,
+      "country": "Estonia",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 53,
+      "country": "Ethiopia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 54,
+      "country": "Fiji",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 55,
+      "country": "Finland",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 56,
+      "country": "France",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 57,
+      "country": "French Guiana",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 58,
+      "country": "French Polynesia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 59,
+      "country": "Gabon",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 60,
+      "country": "Gambia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 61,
+      "country": "Georgia",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 62,
+      "country": "Germany",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 63,
+      "country": "Ghana",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 64,
+      "country": "Gibraltar",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 65,
+      "country": "Greece",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 66,
+      "country": "Guadeloupe",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 67,
+      "country": "Guatemala",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 68,
+      "country": "Guinea",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 69,
+      "country": "Guyana",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 70,
+      "country": "Haiti",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 71,
+      "country": "Honduras",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 72,
+      "country": "Hong Kong & Macau",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 73,
+      "country": "Hungary",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 74,
+      "country": "Iceland",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 75,
+      "country": "India",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 76,
+      "country": "Indonesia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 77,
+      "country": "Iran",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 78,
+      "country": "Iraq",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 79,
+      "country": "Ireland",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 80,
+      "country": "Israel",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 81,
+      "country": "Italy",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 82,
+      "country": "Ivory Coast",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 83,
+      "country": "Jamaica",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 84,
+      "country": "Japan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 18,
+      "toronto": 15,
+      "vancouver": 15
+    },
+    {
+      "id": 85,
+      "country": "Jordan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 86,
+      "country": "Kazakhstan",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 87,
+      "country": "Kenya",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 88,
+      "country": "Kiribati",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 89,
+      "country": "Korea",
+      "brighton": 3,
+      "london": 3,
+      "oxford": 3,
+      "san_diego": 5,
+      "toronto": 5,
+      "vancouver": 5
+    },
+    {
+      "id": 90,
+      "country": "Kosovo",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 91,
+      "country": "Kuwait",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 92,
+      "country": "Kyrgyzstan",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 93,
+      "country": "Laos",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 94,
+      "country": "Latvia",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 95,
+      "country": "Lebanon",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 96,
+      "country": "Lesotho",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 97,
+      "country": "Libya",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 98,
+      "country": "Liechtenstein",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 99,
+      "country": "Lithuania",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 100,
+      "country": "Luxembourg",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 101,
+      "country": "Macedonia",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 102,
+      "country": "Malawi",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 103,
+      "country": "Malaysia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 104,
+      "country": "Maldives",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 105,
+      "country": "Mali",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 106,
+      "country": "Malta",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 107,
+      "country": "Martinique",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 108,
+      "country": "Mauritania",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 109,
+      "country": "Mauritius",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 110,
+      "country": "Mexico",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 111,
+      "country": "Moldova",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 112,
+      "country": "Mongolia",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 113,
+      "country": "Morocco",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 114,
+      "country": "Mozambique",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 115,
+      "country": "Myanmar (Burma)",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 116,
+      "country": "Namibia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 117,
+      "country": "Nepal",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 118,
+      "country": "Netherlands",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 119,
+      "country": "Netherlands-Antilles",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 120,
+      "country": "New Caledonia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 121,
+      "country": "New Zealand",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 122,
+      "country": "Nicaragua",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 123,
+      "country": "Niger",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 124,
+      "country": "Nigeria",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 125,
+      "country": "Norway",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 126,
+      "country": "Oman",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 127,
+      "country": "Pakistan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 128,
+      "country": "Panama",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 129,
+      "country": "Papua New Guinea",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 130,
+      "country": "Paraguay",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 131,
+      "country": "Peru",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 132,
+      "country": "Philippines",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 133,
+      "country": "Poland",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 134,
+      "country": "Portugal",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 135,
+      "country": "Puerto Rico",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 136,
+      "country": "Qatar",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 137,
+      "country": "Romania",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 138,
+      "country": "Russia",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 139,
+      "country": "Rwanda",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 140,
+      "country": "Samoa",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 141,
+      "country": "San Marino",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 142,
+      "country": "Sao Tome & Principe",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 143,
+      "country": "Saudi Arabia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 144,
+      "country": "Senegal",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 145,
+      "country": "Serbia & Montenegro",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 146,
+      "country": "Seychelles",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 147,
+      "country": "Sierra Leone",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 148,
+      "country": "Singapore",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 149,
+      "country": "Slovakia",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 150,
+      "country": "Slovenia",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 151,
+      "country": "Solomon Islands",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 152,
+      "country": "South Africa",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 153,
+      "country": "Spain",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 154,
+      "country": "Sri Lanka",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 155,
+      "country": "Sudan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 156,
+      "country": "Swaziland",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 157,
+      "country": "Sweden",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 158,
+      "country": "Switzerland",
+      "brighton": 28,
+      "london": 28,
+      "oxford": 28,
+      "san_diego": 35,
+      "toronto": 35,
+      "vancouver": 35
+    },
+    {
+      "id": 159,
+      "country": "Syria",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 160,
+      "country": "Taiwan",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 161,
+      "country": "Tajikistan",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 162,
+      "country": "Tanzania",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 163,
+      "country": "Thailand",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 164,
+      "country": "Togo",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 165,
+      "country": "Tonga",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 166,
+      "country": "Trinidad & Tobago",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 167,
+      "country": "Tunisia",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 168,
+      "country": "Turkey",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 169,
+      "country": "Turkmenistan",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 170,
+      "country": "Uganda",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 171,
+      "country": "UK",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 172,
+      "country": "Ukraine",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 173,
+      "country": "United Arab Emirates",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 174,
+      "country": "Uruguay",
+      "brighton": 20,
+      "london": 20,
+      "oxford": 20,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 175,
+      "country": "USA",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 176,
+      "country": "Uzbekistan",
+      "brighton": 15,
+      "london": 15,
+      "oxford": 15,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 177,
+      "country": "Vanuatu",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 178,
+      "country": "Venezuela",
+      "brighton": 25,
+      "london": 25,
+      "oxford": 25,
+      "san_diego": 29,
+      "toronto": 29,
+      "vancouver": 29
+    },
+    {
+      "id": 179,
+      "country": "Vietnam",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 180,
+      "country": "Wallis & Futuna",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": 25,
+      "toronto": 25,
+      "vancouver": 25
+    },
+    {
+      "id": 181,
+      "country": "West Bank & Gaza",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 182,
+      "country": "Yemen",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 183,
+      "country": "Zambia",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    },
+    {
+      "id": 184,
+      "country": "Zimbabwe",
+      "brighton": null,
+      "london": null,
+      "oxford": null,
+      "san_diego": null,
+      "toronto": null,
+      "vancouver": null
+    }
+  ]
